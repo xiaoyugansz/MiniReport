@@ -2,12 +2,11 @@
 
  疫情防控报备小程序，适合广大企事业单位，学校幼儿园，社区村委等更好的统计所辖人员的疫情数据，主要功能包括健康监测、行程跟踪、核酸报名、隔离统计、健康打卡（每天）等，后台可以发布各种通知消息，查看填报数据，对用户进行审核准入，并可以把每天的填报数据导出为Excel表格。本方案前后端完整代码，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
 
-![输入图片说明](demo/qr.png)
+![image](https://user-images.githubusercontent.com/111668540/185811226-f4ce3a06-bf2a-4a2f-bd8c-9b81ad6be4be.png)
 
 
 ## 功能说明
-
-![输入图片说明](demo/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8A%A5%E5%A4%87%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).gif)
+![image](https://user-images.githubusercontent.com/111668540/185811228-36baeb0f-1126-4081-8324-4c9ecf701739.png)
 
 
 ## 技术运用
@@ -23,12 +22,12 @@
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
+![image](https://user-images.githubusercontent.com/111668540/185811233-ca69a111-af81-410e-86a0-d95296e11592.png)
 
 
 ## 演示 
 
- ![输入图片说明](demo/qr.png)
+![image](https://user-images.githubusercontent.com/111668540/185811235-3f4291e3-f286-4a5f-b674-9fe96881e60a.png)
 
 ## 安装
 
@@ -38,29 +37,34 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-
-![输入图片说明](demo/2%E5%85%AC%E5%91%8A.png)
-![输入图片说明](demo/3%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1.png)
-
-![输入图片说明](demo/4%20%E7%96%AB%E6%83%85%E6%8E%92%E6%9F%A5.png)
- ![输入图片说明](demo/5%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/6%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%872.png)
-![输入图片说明](demo/7%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%873.png)
-![输入图片说明](demo/8%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%90%8D.png)
-![输入图片说明](demo/9%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A1.png)
-![输入图片说明](demo/10%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A12.png)
-![输入图片说明](demo/11%E6%88%91%E7%9A%84.png)
+ ![image](https://user-images.githubusercontent.com/111668540/185811242-64561976-2678-450c-bc76-5c363495a316.png)
+![image](https://user-images.githubusercontent.com/111668540/185811247-fb8fdb55-99eb-4197-8545-9b7dbc385080.png)
+![image](https://user-images.githubusercontent.com/111668540/185811249-47a8e33d-4b4a-4cfd-ab3e-2141a5aa0105.png)
+![image](https://user-images.githubusercontent.com/111668540/185811250-01778a87-bca9-48e4-b1e8-32549efbfd17.png)
+![image](https://user-images.githubusercontent.com/111668540/185811253-b47e3e4a-1e53-4d60-91c0-8aca03161d7e.png)
+![image](https://user-images.githubusercontent.com/111668540/185811255-ac0d1b43-13b1-4be7-b0ea-07c0689fccda.png)
+![image](https://user-images.githubusercontent.com/111668540/185811257-eae7c120-b8a5-4d73-b7dd-e88ddf6f40bc.png)
+![image](https://user-images.githubusercontent.com/111668540/185811258-1ab20e77-508a-49f0-b0ab-0363457538fd.png)
+![image](https://user-images.githubusercontent.com/111668540/185811262-080f468a-2983-4232-a532-d22267666955.png)
+![image](https://user-images.githubusercontent.com/111668540/185811265-3a64bc31-3887-436f-aae4-e4591c5236d8.png)
+![image](https://user-images.githubusercontent.com/111668540/185811267-83caf122-0483-4b67-9e73-43ee1e6badb7.png) 
+ 
+ 
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+ ![image](https://user-images.githubusercontent.com/111668540/185811270-79442a3d-fdde-4edc-a3b6-b82be4171846.png)
+ 
+ ![image](https://user-images.githubusercontent.com/111668540/185811274-758dbd21-cd1d-4c1e-8110-a13248d3ee5c.png)
 
-![输入图片说明](demo/12%E7%AE%A1%E7%90%86%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/13%E5%A1%AB%E6%8A%A5%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/111668540/185811276-8d2f0086-db55-438c-a61a-4388d8eeef1d.png)
+![image](https://user-images.githubusercontent.com/111668540/185811278-59b006ea-00dc-438a-b387-20e108826c69.png)
+ 
+ ![image](https://user-images.githubusercontent.com/111668540/185811280-721278ad-6481-4473-9522-f9118cd76d63.png)
 
-![输入图片说明](demo/14%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/15%E5%AF%BC%E5%87%BA%E6%95%B0%E6%8D%AE.jpg)
-![输入图片说明](demo/16%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/18%E6%8A%A5%E5%A4%87%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/20%E6%8A%A5%E5%A4%87%E5%AF%BC%E5%87%BA.jpg)
-![输入图片说明](demo/21%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/111668540/185811281-35b6994c-07ab-4969-b2b6-eb1807c09ba6.png)
+![image](https://user-images.githubusercontent.com/111668540/185811283-415f09dd-2d21-4685-b17f-1f8abbff35d5.png)
+![image](https://user-images.githubusercontent.com/111668540/185811285-70800c47-e01c-419e-bffc-deb830ef3cca.png)
+
+ 
+
